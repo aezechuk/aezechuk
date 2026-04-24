@@ -3,7 +3,7 @@
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/aezechuk/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)**
+- **Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)**
 
 ## Python (Flask)
 
