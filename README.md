@@ -4,6 +4,7 @@
 
 - **[Vulnerability Management Program Implementation](https://github.com/aezechuk/vulnerability-management-program)**
 - **Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)**
+- **[Vulnerability Management Lab](https://github.com/aezechuk/vulnerability-management-lab/)**
 
 ## Python (Flask)
 
