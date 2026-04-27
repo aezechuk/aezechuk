@@ -10,7 +10,7 @@
 
 A full-stack blog application built to host original cybersecurity research and writing. Features production-grade security controls including audit logging, brute-force detection, rate limiting, and CSRF protection. Deployed on AWS Elastic Beanstalk with centralized logging via CloudWatch and structured JSON logs for observability.
 
-- **[AE's Blog](https://github.com/aezechuk/AEblog)**
+**[Flask Blog Repo](https://github.com/aezechuk/AEblog)**
 
 ## Cybersecurity Writing 
 
