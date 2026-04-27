@@ -6,7 +6,9 @@
 - **Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)**
 - **[Vulnerability Management Lab](https://github.com/aezechuk/vulnerability-management-lab/)**
 
-## Python (Flask)
+## Personal Security Blog — Flask + AWS
+
+A full-stack blog application built to host original cybersecurity research and writing. Features production-grade security controls including audit logging, brute-force detection, rate limiting, and CSRF protection. Deployed on AWS Elastic Beanstalk with centralized logging via CloudWatch and structured JSON logs for observability.
 
 - **[AE's Blog](https://github.com/aezechuk/AEblog)**
 
