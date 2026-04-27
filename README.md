@@ -2,9 +2,15 @@
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/aezechuk/vulnerability-management-program)**
-- **Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)**
-- **[Vulnerability Management Lab](https://github.com/aezechuk/vulnerability-management-lab/)**
+**[Vulnerability Management Program Implementation](https://github.com/aezechuk/vulnerability-management-program)**
+
+End-to-end vulnerability management program built in a structured cyber range environment using Tenable and Windows Server 2025. Covers asset discovery, authenticated scanning, vulnerability analysis, risk prioritization, and remediation tracking — simulating the full lifecycle of an enterprise VM program.
+  
+**[Vulnerability Management Lab](https://github.com/aezechuk/vulnerability-management-lab/)**
+
+A self-built home lab simulating an enterprise vulnerability management pipeline. Uses Trivy to scan a live vulnerable target, parses findings into SQLite, enriches with CISA KEV and EPSS scoring, and visualizes risk in a Streamlit dashboard. Includes injectable practice scenarios for triage, prioritization, and remediation planning.
+
+**Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)**
 
 ## Personal Security Blog — Flask + AWS
 
