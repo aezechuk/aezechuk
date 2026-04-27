@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/arielleezechukwu/">Arielle Ezechukwus</a>'s GRC and Tech Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/arielleezechukwu/">Arielle Ezechukwu</a>'s GRC and Tech Project Portfolio 🔐
 
 ## ⚠️ Vulnerability Management Projects
 
