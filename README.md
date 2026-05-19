@@ -14,7 +14,7 @@ A self-built home lab simulating an enterprise vulnerability management pipeline
 An interactive executive security briefing built as part of a GRC portfolio assessment. BirthBFF is a fictional AI-powered childbirth education platform operating under HIPAA Security Rule requirements. This report simulates the monthly security deliverable an ISSO or GRC analyst would present to organizational leadership. [Repo](https://github.com/aezechuk/birthbff-security-report/)
 
 
-## Personal Security Blog — Flask + AWS
+## Personal Security Blog — Python Flask + AWS
 
 A full-stack blog application built to host original cybersecurity research and writing. Features production-grade security controls including audit logging, brute-force detection, rate limiting, and CSRF protection. Deployed on AWS Elastic Beanstalk with centralized logging via CloudWatch and structured JSON logs for observability.
 
