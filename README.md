@@ -1,6 +1,5 @@
 # <a href="https://www.linkedin.com/in/arielleezechukwu/">Arielle Ezechukwu</a>'s GRC and Tech Project Portfolio 🔐
 
-## ⚠️ Vulnerability Management Projects
 
 **[Vulnerability Management Program Implementation](https://github.com/aezechuk/vulnerability-management-program)**
 
