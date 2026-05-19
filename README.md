@@ -16,7 +16,7 @@ An interactive executive security briefing built as part of a GRC portfolio asse
 
 ## Personal Security Blog — Python Flask + AWS
 
-A full-stack blog application built to host original cybersecurity research and writing. Features production-grade security controls including audit logging, brute-force detection, rate limiting, and CSRF protection. Deployed on AWS Elastic Beanstalk with centralized logging via CloudWatch and structured JSON logs for observability.
+A full-stack blog application built to host original cybersecurity research and writing. Features production-grade security controls including audit logging, brute-force detection, rate limiting, and CSRF protection. Deployed on AWS Elastic Beanstalk with centralized logging via CloudWatch and structured JSON logs for observability. This was a personal project to sharpen Python skills and enhance understanding of full-stack applications.
 
 **[Flask Blog Repo](https://github.com/aezechuk/AEblog)**
 
