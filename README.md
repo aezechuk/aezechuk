@@ -8,7 +8,7 @@ End-to-end vulnerability management program built in a structured cyber range en
 
 **[AWS Cloud Security & GRC Assessment](https://github.com/aezechuk/birthbff-grc-assessment)**
 
-A simulated AWS environment with deliberately misconfigured IAM, VPC, S3, EC2, and CloudTrail resources built to reflect real HIPAA compliance risks. What I built and assessed:
+A simulated AWS environment with deliberately misconfigured IAM, VPC, S3, EC2, and CloudTrail resources built to reflect realistic HIPAA compliance risks. What I built and assessed:
 
 - 11 findings including 2 Critical — one being a publicly accessible S3 bucket containing mock PHI data, confirmed downloadable without authentication  
 - Risk register scored using likelihood x impact methodology  
@@ -19,9 +19,9 @@ A simulated AWS environment with deliberately misconfigured IAM, VPC, S3, EC2, a
 
 An interactive executive security briefing built as part of a GRC portfolio assessment. BirthBFF is a fictional AI-powered childbirth education platform designed around HIPAA Security Rule considerations. This report simulates the monthly security deliverable an ISSO or GRC analyst would present to organizational leadership. [Repo](https://github.com/aezechuk/birthbff-security-report/)
   
-**[Vulnerability Management Lab](https://github.com/aezechuk/vulnerability-management-lab/)**
+**[Vulnerability Triage & Remediation Lab](https://github.com/aezechuk/vulnerability-management-lab/)**
 
-A self-built home lab simulating an enterprise vulnerability management pipeline. Uses Trivy to scan a live vulnerable target, parses findings into SQLite, enriches with CISA KEV and EPSS scoring, and visualizes risk in a Streamlit dashboard. Includes injectable practice scenarios for triage, prioritization, and remediation planning.
+A self-built practice environment for analyzing vulnerability scan results, prioritizing risk, and recommending remediation actions. Uses Trivy to scan a live vulnerable target, parses findings into SQLite, enriches vulnerabilities with CISA KEV and EPSS context, and visualizes results in a Streamlit dashboard. Designed to practice vulnerability assessment, triage, prioritization, and remediation planning.
 
 
 ## Personal Security Blog — Python Flask + AWS
