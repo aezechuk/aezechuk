@@ -10,7 +10,10 @@ End-to-end vulnerability management program built in a structured cyber range en
 
 A self-built home lab simulating an enterprise vulnerability management pipeline. Uses Trivy to scan a live vulnerable target, parses findings into SQLite, enriches with CISA KEV and EPSS scoring, and visualizes risk in a Streamlit dashboard. Includes injectable practice scenarios for triage, prioritization, and remediation planning.
 
-**Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)**
+**[Monthly Security Posture Report](https://birthbff-security-report.vercel.app/)**
+
+An interactive executive security briefing built as part of a GRC portfolio assessment. BirthBFF is a fictional AI-powered childbirth education platform operating under HIPAA Security Rule requirements. This report simulates the monthly security deliverable an ISSO or GRC analyst would present to organizational leadership. [Repo](https://github.com/aezechuk/birthbff-security-report/)
+
 
 ## Personal Security Blog — Flask + AWS
 
