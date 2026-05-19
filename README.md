@@ -1,11 +1,12 @@
 # <a href="https://www.linkedin.com/in/arielleezechukwu/">Arielle Ezechukwu</a>'s GRC and Tech Project Portfolio 🔐
+### GRC | Cloud Security | Vulnerability Management | Risk Analysis | Security Reporting | Python/AWS
 
 
 **[Vulnerability Management Program Implementation](https://github.com/aezechuk/vulnerability-management-program)**
 
 End-to-end vulnerability management program built in a structured cyber range environment using Tenable and Windows Server 2025. Covers asset discovery, authenticated scanning, vulnerability analysis, risk prioritization, and remediation tracking — simulating the full lifecycle of an enterprise VM program.
 
-**[AWS GRC Assessment](https://github.com/aezechuk/birthbff-grc-assessment)**
+**[AWS Cloud Security & GRC Assessment](https://github.com/aezechuk/birthbff-grc-assessment)**
 
 A simulated AWS environment with deliberately misconfigured IAM, VPC, S3, EC2, and CloudTrail resources built to reflect real HIPAA compliance risks. What I built and assessed:
 
@@ -16,7 +17,7 @@ A simulated AWS environment with deliberately misconfigured IAM, VPC, S3, EC2, a
 
 **[Monthly Security Posture Report](https://birthbff-security-report.vercel.app/)**
 
-An interactive executive security briefing built as part of a GRC portfolio assessment. BirthBFF is a fictional AI-powered childbirth education platform operating under HIPAA Security Rule requirements. This report simulates the monthly security deliverable an ISSO or GRC analyst would present to organizational leadership. [Repo](https://github.com/aezechuk/birthbff-security-report/)
+An interactive executive security briefing built as part of a GRC portfolio assessment. BirthBFF is a fictional AI-powered childbirth education platform designed around HIPAA Security Rule considerations. This report simulates the monthly security deliverable an ISSO or GRC analyst would present to organizational leadership. [Repo](https://github.com/aezechuk/birthbff-security-report/)
   
 **[Vulnerability Management Lab](https://github.com/aezechuk/vulnerability-management-lab/)**
 
