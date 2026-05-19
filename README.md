@@ -7,10 +7,7 @@ End-to-end vulnerability management program built in a structured cyber range en
 
 **[AWS GRC Assessment](https://github.com/aezechuk/birthbff-grc-assessment)**
 
-A simulated AWS environment built to reflect real HIPAA compliance risks.
-What I built and assessed:
-
-Deliberately misconfigured AWS environment (IAM, VPC, S3, EC2, CloudTrail)
+A simulated AWS environment with deliberately misconfigured IAM, VPC, S3, EC2, and CloudTrail resources built to reflect real HIPAA compliance risks. What I built and assessed:
 
 - 11 findings including 2 Critical — one being a publicly accessible S3 bucket containing mock PHI data, confirmed downloadable without authentication  
 - Risk register scored using likelihood x impact methodology  
