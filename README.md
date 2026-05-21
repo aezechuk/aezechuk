@@ -15,9 +15,9 @@ A simulated AWS environment with deliberately misconfigured IAM, VPC, S3, EC2, a
 - Framework mapping across HIPAA Security Rule, NIST SP 800-53 Rev. 5, and CIS AWS Foundations Benchmark v1.4  
 - Deployed interactive security report 
 
-**[Monthly Security Posture Report](https://birthbff-security-report.vercel.app/)**
+**[Monthly Security Posture Report](https://github.com/aezechuk/birthbff-security-report/)**
 
-An interactive executive security briefing built as part of a GRC portfolio assessment. BirthBFF is a fictional AI-powered childbirth education platform designed around HIPAA Security Rule considerations. This report simulates the monthly security deliverable an ISSO or GRC analyst would present to organizational leadership. [Repo](https://github.com/aezechuk/birthbff-security-report/)
+An interactive executive security briefing built as part of a GRC portfolio assessment. BirthBFF is a fictional AI-powered childbirth education platform designed around HIPAA Security Rule considerations. This report simulates the monthly security deliverable an ISSO or GRC analyst would present to organizational leadership.
   
 **[Vulnerability Triage & Remediation Lab](https://github.com/aezechuk/vulnerability-management-lab/)**
 
