@@ -16,7 +16,11 @@ A simulated AWS environment with deliberately misconfigured IAM, VPC, S3, EC2, a
 - 11 findings including 2 Critical — one being a publicly accessible S3 bucket containing mock PHI data, confirmed downloadable without authentication  
 - Risk register scored using likelihood x impact methodology  
 - Framework mapping across HIPAA Security Rule, NIST SP 800-53 Rev. 5, and CIS AWS Foundations Benchmark v1.4  
-- Deployed interactive security report 
+- Deployed interactive security report
+
+**[Flask Blog Deployed on AWS](https://github.com/aezechuk/AEblog)**
+
+A full-stack blog application built to host original cybersecurity research and writing. Features production-grade security controls including audit logging, brute-force detection, rate limiting, and CSRF protection. Deployed on AWS Elastic Beanstalk with centralized logging via CloudWatch and structured JSON logs for observability. This was a personal project to sharpen Python skills and enhance understanding of full-stack applications.
 
 **[Monthly Security Posture Report](https://github.com/aezechuk/birthbff-security-report/)**
 
@@ -26,18 +30,10 @@ An interactive executive security briefing built as part of a GRC portfolio asse
 
 A self-built practice environment for analyzing vulnerability scan results, prioritizing risk, and recommending remediation actions. Uses Trivy to scan a live vulnerable target, parses findings into SQLite, enriches vulnerabilities with CISA KEV and EPSS context, and visualizes results in a Streamlit dashboard. Designed to practice vulnerability assessment, triage, prioritization, and remediation planning.
 
-
-## Personal Security Blog — Python Flask + AWS
-
-A full-stack blog application built to host original cybersecurity research and writing. Features production-grade security controls including audit logging, brute-force detection, rate limiting, and CSRF protection. Deployed on AWS Elastic Beanstalk with centralized logging via CloudWatch and structured JSON logs for observability. This was a personal project to sharpen Python skills and enhance understanding of full-stack applications.
-
-**[Flask Blog Repo](https://github.com/aezechuk/AEblog)**
-
-## Cybersecurity Writing 
+**[Cyber Blogs](https://github.com/aezechuk/cyber-blogs-2025)**
 
 A collection of 22 original pieces covering vulnerability research, active exploitation campaigns, and practical security guidance. Topics span critical CVE analysis, nation-state threat activity, enterprise software risk, and accessible cyber hygiene tips. Written to communicate technical concepts clearly for security practitioners and non-technical audiences alike.
 
-**[Cyber Blogs](https://github.com/aezechuk/cyber-blogs-2025)**
 
 <hr/>
 
