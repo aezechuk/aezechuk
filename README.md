@@ -1,6 +1,9 @@
 # <a href="https://www.linkedin.com/in/arielleezechukwu/">Arielle Ezechukwu</a>'s GRC and Tech Project Portfolio 🔐
 ### GRC | Cloud Security | Vulnerability Management | Risk Analysis | Security Reporting | Python/AWS
 
+**[Azure Identity & Access Administration Lab](https://github.com/aezechuk/azure-identity-lab)**
+
+Built a secure IAM foundation for a fictional healthcare staffing company using Microsoft Entra ID P2, Azure RBAC, and PowerShell. Covers user lifecycle, least-privilege access, Conditional Access, Identity Governance, and automated offboarding.
 
 **[Vulnerability Management Program Implementation](https://github.com/aezechuk/vulnerability-management-program)**
 
