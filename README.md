@@ -5,7 +5,7 @@
 
 Built a secure IAM foundation for a fictional healthcare staffing company using Microsoft Entra ID P2, Azure RBAC, and PowerShell. Covers user lifecycle, least-privilege access, Conditional Access, Identity Governance, and automated offboarding.
 
-**[Vulnerability Management Program Implementation](https://github.com/aezechuk/vulnerability-management-program)**
+**[Vulnerability Management Program Implementation - Azure & Tenable](https://github.com/aezechuk/vulnerability-management-program)**
 
 End-to-end vulnerability management program built in a structured cyber range environment using Tenable and Windows Server 2025. Covers asset discovery, authenticated scanning, vulnerability analysis, risk prioritization, and remediation tracking — simulating the full lifecycle of an enterprise VM program.
 
