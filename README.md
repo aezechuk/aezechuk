@@ -1,4 +1,5 @@
-# <a href="https://www.linkedin.com/in/arielleezechukwu/">Arielle Ezechukwu</a>'s GRC and Tech Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/arielleezechukwu/">Arielle Ezechukwu</a>'s Tech Portfolio 🔐
+## Cloud (Azure & AWS) | Cybersecurity
 
 **[Azure Networking Administration Lab](https://github.com/aezechuk/azure-network-lab)**
 
@@ -23,7 +24,7 @@ A simulated AWS environment with deliberately misconfigured IAM, VPC, S3, EC2, a
 
 **[Flask Blog Deployed on AWS](https://github.com/aezechuk/AEblog)**
 
-A full-stack blog application built to host original cybersecurity research and writing. Features production-grade security controls including audit logging, brute-force detection, rate limiting, and CSRF protection. Deployed on AWS Elastic Beanstalk with centralized logging via CloudWatch and structured JSON logs for observability. This was a personal project to sharpen Python skills and enhance understanding of full-stack applications.
+A full-stack blog application built to host original cybersecurity research and writing. Features production-grade security controls including audit logging, brute-force detection, rate limiting, and CSRF protection. Deployed on AWS Elastic Beanstalk with centralized logging via CloudWatch and structured JSON logs for observability, and a fully automated CI/CD pipeline. 
 
 **[Monthly Security Posture Report](https://github.com/aezechuk/birthbff-security-report/)**
 
