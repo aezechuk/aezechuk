@@ -1,5 +1,8 @@
 # <a href="https://www.linkedin.com/in/arielleezechukwu/">Arielle Ezechukwu</a>'s GRC and Tech Project Portfolio 🔐
-### GRC | Cloud Security | Vulnerability Management | Risk Analysis | Security Reporting | Python/AWS
+
+**[Azure Networking Administration Lab](https://github.com/aezechuk/azure-network-lab)**
+
+A hub-spoke network built end-to-end in Azure: segmented clinic sites, least-privilege NSGs, a documented (and intentionally non-functional) routing pattern for future traffic inspection, and hybrid connectivity proven two ways — site-to-site and point-to-site VPN.
 
 **[Azure Identity & Access Administration Lab](https://github.com/aezechuk/azure-identity-lab)**
 
