@@ -1,13 +1,20 @@
 # <a href="https://www.linkedin.com/in/arielleezechukwu/">Arielle Ezechukwu</a>'s Tech Portfolio 🔐
 ## Cloud (Azure & AWS) | Cybersecurity
 
-**[Azure Networking Administration Lab](https://github.com/aezechuk/azure-network-lab)**
-
 A hub-spoke network built end-to-end in Azure: segmented clinic sites, least-privilege NSGs, a documented (and intentionally non-functional) routing pattern for future traffic inspection, and hybrid connectivity proven two ways — site-to-site and point-to-site VPN.
 
 **[Azure Identity & Access Administration Lab](https://github.com/aezechuk/azure-identity-lab)**
 
 Built a secure IAM foundation for a fictional healthcare staffing company using Microsoft Entra ID P2, Azure RBAC, and PowerShell. Covers user lifecycle, least-privilege access, Conditional Access, Identity Governance, and automated offboarding.
+
+### AZ-104 Terraform Labs
+**[Lab 1 Virtual Machines & RBAC with Terraform](https://github.com/aezechuk/az104-lab1-vm-rbac)**
+
+**[Lab 2 Virtual Networks & Secure Storage](https://github.com/aezechuk/az104-lab2-vnet-storage)**
+
+**[Lab 3 Monitoring, Backup & Recovery](https://github.com/aezechuk/az104-lab3-monitoring-backup)**
+
+**[Azure Networking Administration Lab](https://github.com/aezechuk/azure-network-lab)**
 
 **[Vulnerability Management Program Implementation - Azure & Tenable](https://github.com/aezechuk/vulnerability-management-program)**
 
