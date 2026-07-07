@@ -1,6 +1,8 @@
 # <a href="https://www.linkedin.com/in/arielleezechukwu/">Arielle Ezechukwu</a>'s Tech Portfolio 🔐
 ## Cloud Administration (Azure & AWS) | Security | Automation
 
+**[Azure Networking Administration Lab](https://github.com/aezechuk/azure-network-lab)**
+
 A hub-spoke network built end-to-end in Azure: segmented clinic sites, least-privilege NSGs, a documented (and intentionally non-functional) routing pattern for future traffic inspection, and hybrid connectivity proven two ways — site-to-site and point-to-site VPN.
 
 **[Azure Identity & Access Administration Lab](https://github.com/aezechuk/azure-identity-lab)**
@@ -14,7 +16,6 @@ Built a secure IAM foundation for a fictional healthcare staffing company using 
 
 **[Lab 3 Monitoring, Backup & Recovery](https://github.com/aezechuk/az104-lab3-monitoring-backup)**
 
-**[Azure Networking Administration Lab](https://github.com/aezechuk/azure-network-lab)**
 
 **[Vulnerability Management Program Implementation - Azure & Tenable](https://github.com/aezechuk/vulnerability-management-program)**
 
