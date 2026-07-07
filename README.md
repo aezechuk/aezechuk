@@ -1,5 +1,5 @@
 # <a href="https://www.linkedin.com/in/arielleezechukwu/">Arielle Ezechukwu</a>'s Tech Portfolio 🔐
-## Cloud (Azure & AWS) | Cybersecurity
+## Cloud Administration (Azure & AWS) | Security | Automation
 
 A hub-spoke network built end-to-end in Azure: segmented clinic sites, least-privilege NSGs, a documented (and intentionally non-functional) routing pattern for future traffic inspection, and hybrid connectivity proven two ways — site-to-site and point-to-site VPN.
 
