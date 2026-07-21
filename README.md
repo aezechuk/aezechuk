@@ -1,6 +1,10 @@
 # <a href="https://www.linkedin.com/in/arielleezechukwu/">Arielle Ezechukwu</a>'s Tech Portfolio 🔐
 ## Cloud Administration (Azure & AWS) | Security | Automation
 
+**[AWS Workload Assessment](https://github.com/aezechuk/aws-workload-rightsizing)**
+
+Simulated a mid-size AWS environment (EC2, RDS, S3) and ran a full rightsizing and governance assessment using native AWS tooling (CloudWatch, Compute Optimizer, Tag Editor, Storage Class Analysis), uncovering a workload running 23x more uptime than needed and a validated Graviton migration opportunity.
+
 **[Azure Networking Administration Project](https://github.com/aezechuk/azure-network-lab)**
 
 A hub-spoke network built end-to-end in Azure: segmented clinic sites, least-privilege NSGs, a documented (and intentionally non-functional) routing pattern for future traffic inspection, and hybrid connectivity proven two ways — site-to-site and point-to-site VPN.
