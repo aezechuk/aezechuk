@@ -17,9 +17,20 @@
 
 Simulated a mid-size AWS environment (EC2, RDS, S3) and ran a full rightsizing and governance assessment using native AWS tooling (CloudWatch, Compute Optimizer, Tag Editor, Storage Class Analysis), uncovering a workload running 23x more uptime than needed and a validated Graviton migration opportunity.
 
+**[AWS Cloud Security & GRC Assessment](https://github.com/aezechuk/birthbff-grc-assessment)**
+
+A simulated AWS environment with deliberately misconfigured IAM, VPC, S3, EC2, and CloudTrail resources built to reflect realistic HIPAA compliance risks. The assessment identified 11 findings, including 2 Critical — one being a publicly accessible S3 bucket containing mock PHI data, confirmed downloadable without authentication — with each finding scored on a risk register using a likelihood x impact methodology and mapped across the HIPAA Security Rule, NIST SP 800-53 Rev. 5, and CIS AWS Foundations Benchmark v1.4. Results were published as a deployed, interactive security report.
+
+---
+
+
 **[Sharepoint Governance & Migration](https://github.com/aezechuk/SharePoint-Governance-Migration)**
 
 Designed and built a governed Microsoft 365 environment for a fictional healthcare staffing company running on unstructured shared folders — replacing folder chaos with a hub-and-spoke SharePoint architecture, custom content types, metadata-driven compliance views, and automated credential-expiration tracking via Power Automate. Includes a simulated Dropbox-to-SharePoint migration using Microsoft Migration Manager.
+
+**[Vulnerability Management Program Implementation - Azure & Tenable](https://github.com/aezechuk/vulnerability-management-program)**
+
+End-to-end vulnerability management program built in a structured cyber range environment using Tenable and Windows Server 2025. Covers asset discovery, authenticated scanning, vulnerability analysis, risk prioritization, and remediation tracking — simulating the full lifecycle of an enterprise VM program.
 
 **[Azure Networking Administration Project](https://github.com/aezechuk/azure-network-lab)**
 
@@ -29,21 +40,15 @@ A hub-spoke network built end-to-end in Azure: segmented clinic sites, least-pri
 
 Built a secure IAM foundation for a fictional healthcare staffing company using Microsoft Entra ID P2, Azure RBAC, and PowerShell. Covers user lifecycle, least-privilege access, Conditional Access, Identity Governance, and automated offboarding.
 
-### AZ-104 Terraform Projects
+*AZ-104 Terraform Projects*
+
 **[Lab 1 Virtual Machines & RBAC with Terraform](https://github.com/aezechuk/az104-lab1-vm-rbac)**
 
 **[Lab 2 Virtual Networks & Secure Storage](https://github.com/aezechuk/az104-lab2-vnet-storage)**
 
 **[Lab 3 Monitoring, Backup & Recovery](https://github.com/aezechuk/az104-lab3-monitoring-backup)**
 
-
-**[Vulnerability Management Program Implementation - Azure & Tenable](https://github.com/aezechuk/vulnerability-management-program)**
-
-End-to-end vulnerability management program built in a structured cyber range environment using Tenable and Windows Server 2025. Covers asset discovery, authenticated scanning, vulnerability analysis, risk prioritization, and remediation tracking — simulating the full lifecycle of an enterprise VM program.
-
-**[AWS Cloud Security & GRC Assessment](https://github.com/aezechuk/birthbff-grc-assessment)**
-
-A simulated AWS environment with deliberately misconfigured IAM, VPC, S3, EC2, and CloudTrail resources built to reflect realistic HIPAA compliance risks. The assessment identified 11 findings, including 2 Critical — one being a publicly accessible S3 bucket containing mock PHI data, confirmed downloadable without authentication — with each finding scored on a risk register using a likelihood x impact methodology and mapped across the HIPAA Security Rule, NIST SP 800-53 Rev. 5, and CIS AWS Foundations Benchmark v1.4. Results were published as a deployed, interactive security report.
+---
 
 **[Flask Blog Deployed on AWS](https://github.com/aezechuk/AEblog)**
 
