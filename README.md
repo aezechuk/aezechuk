@@ -1,9 +1,25 @@
 # <a href="https://www.linkedin.com/in/arielleezechukwu/">Arielle Ezechukwu</a>'s Tech Portfolio 🔐
 ## Cloud Administration (Azure & AWS) | Security | Automation
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Tenable](https://img.shields.io/badge/Tenable-1E4471?style=for-the-badge&logo=tenable&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **[AWS Workload Assessment](https://github.com/aezechuk/aws-workload-rightsizing)**
 
 Simulated a mid-size AWS environment (EC2, RDS, S3) and ran a full rightsizing and governance assessment using native AWS tooling (CloudWatch, Compute Optimizer, Tag Editor, Storage Class Analysis), uncovering a workload running 23x more uptime than needed and a validated Graviton migration opportunity.
+
+**[Sharepoint Governance & Migration](https://github.com/aezechuk/SharePoint-Governance-Migration)**
+
+Designed and built a governed Microsoft 365 environment for a fictional healthcare staffing company running on unstructured shared folders — replacing folder chaos with a hub-and-spoke SharePoint architecture, custom content types, metadata-driven compliance views, and automated credential-expiration tracking via Power Automate. Includes a simulated Dropbox-to-SharePoint migration using Microsoft Migration Manager.
 
 **[Azure Networking Administration Project](https://github.com/aezechuk/azure-network-lab)**
 
@@ -27,12 +43,7 @@ End-to-end vulnerability management program built in a structured cyber range en
 
 **[AWS Cloud Security & GRC Assessment](https://github.com/aezechuk/birthbff-grc-assessment)**
 
-A simulated AWS environment with deliberately misconfigured IAM, VPC, S3, EC2, and CloudTrail resources built to reflect realistic HIPAA compliance risks. What I built and assessed:
-
-- 11 findings including 2 Critical — one being a publicly accessible S3 bucket containing mock PHI data, confirmed downloadable without authentication  
-- Risk register scored using likelihood x impact methodology  
-- Framework mapping across HIPAA Security Rule, NIST SP 800-53 Rev. 5, and CIS AWS Foundations Benchmark v1.4  
-- Deployed interactive security report
+A simulated AWS environment with deliberately misconfigured IAM, VPC, S3, EC2, and CloudTrail resources built to reflect realistic HIPAA compliance risks. The assessment identified 11 findings, including 2 Critical — one being a publicly accessible S3 bucket containing mock PHI data, confirmed downloadable without authentication — with each finding scored on a risk register using a likelihood x impact methodology and mapped across the HIPAA Security Rule, NIST SP 800-53 Rev. 5, and CIS AWS Foundations Benchmark v1.4. Results were published as a deployed, interactive security report.
 
 **[Flask Blog Deployed on AWS](https://github.com/aezechuk/AEblog)**
 
@@ -49,6 +60,15 @@ A self-built practice environment for analyzing vulnerability scan results, prio
 **[Cyber Blogs](https://github.com/aezechuk/cyber-blogs-2025)**
 
 A collection of 22 original pieces covering vulnerability research, active exploitation campaigns, and practical security guidance. Topics span critical CVE analysis, nation-state threat activity, enterprise software risk, and accessible cyber hygiene tips. Written to communicate technical concepts clearly for security practitioners and non-technical audiences alike.
+
+### Security Plus Study Apps
+
+I teach an 8-week study group for local high school students in partnership with We Got Next Cyber. I created these interactive applications as an in-class teaching aid for that students can use after class to extend their studies. The remaining classes will be uploaded as the weeks are completed.
+
+**[Week 1 - Cybersecurity Foundations](https://secplus-week1-deliver.vercel.app/)**
+
+
+**[Week 2 - Threats, Threat Actors, Attack Surfaces & Social Engineering](https://secplus-week2.vercel.app/)**
 
 
 <hr/>
