@@ -68,7 +68,7 @@ A collection of 22 original pieces covering vulnerability research, active explo
 
 ### Security Plus Study Apps
 
-I teach an 8-week study group for local high school students in partnership with We Got Next Cyber. I created these interactive applications as an in-class teaching aid for that students can use after class to extend their studies. The remaining classes will be uploaded as the weeks are completed.
+I faciliate an 8-week study group for local high school students in partnership with We Got Next Cyber. I created these interactive applications as an in-class teaching aid for that students can use after class to extend their studies. The remaining classes will be uploaded as the weeks are completed.
 
 **[Week 1 - Cybersecurity Foundations](https://secplus-week1-deliver.vercel.app/)**
 
