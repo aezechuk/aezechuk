@@ -73,10 +73,14 @@ I teach an 8-week study group for local high school students in partnership with
 **[Week 1 - Cybersecurity Foundations](https://secplus-week1-deliver.vercel.app/)**
 
 
-**[Week 2 - Threats, Threat Actors, Attack Surfaces & Social Engineering](https://secplus-week2.vercel.app/)**
+**[Week 2/3 - Threats, Threat Actors, Attack Surfaces & Social Engineering](https://secplus-week2.vercel.app/)**
 
 
-<hr/>
+**[Week 4/5 - Secure Architecture](https://secplus-week4.vercel.app/)**
+
+**[Week 6/7 - Security Operations](https://secplus-week67.vercel.app/)**
+
+**[Week 8 - Security Program Management & Oversight](https://secplus-week8.vercel.app/)**
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arielleezechukwu/)
