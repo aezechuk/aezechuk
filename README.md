@@ -22,7 +22,7 @@ Simulated a mid-size AWS environment (EC2, RDS, S3) and ran a full rightsizing a
 A simulated AWS environment with deliberately misconfigured IAM, VPC, S3, EC2, and CloudTrail resources built to reflect realistic HIPAA compliance risks. The assessment identified 11 findings, including 2 Critical — one being a publicly accessible S3 bucket containing mock PHI data, confirmed downloadable without authentication — with each finding scored on a risk register using a likelihood x impact methodology and mapped across the HIPAA Security Rule, NIST SP 800-53 Rev. 5, and CIS AWS Foundations Benchmark v1.4. Results were published as a deployed, interactive security report.
 
 ---
-
+**[Saas Governance Registry Tool & Azure Deployment](https://github.com/aezechuk/saas-governance)**
 
 **[Sharepoint Governance & Migration](https://github.com/aezechuk/SharePoint-Governance-Migration)**
 
