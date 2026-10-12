@@ -24,6 +24,8 @@ A simulated AWS environment with deliberately misconfigured IAM, VPC, S3, EC2, a
 ---
 **[Saas Governance Registry Tool & Azure Deployment](https://github.com/aezechuk/saas-governance)**
 
+A project that tackles unmanaged SaaS adoption: a registry of applications with ownership and data classification, an intake and review workflow for new requests, and a dashboard showing governance gaps. I deployed it on Azure Container Apps with PostgreSQL, then set up Microsoft Entra ID sign-in with assignment required and app roles. I tested how access fails using the sign-in and audit logs, worked through offboarding (including the finding that open app sessions outlive a disabled account), and rotated a client secret. Stack: Flask, Docker, Azure, Entra ID.
+
 **[Sharepoint Governance & Migration](https://github.com/aezechuk/SharePoint-Governance-Migration)**
 
 Designed and built a governed Microsoft 365 environment for a fictional healthcare staffing company running on unstructured shared folders — replacing folder chaos with a hub-and-spoke SharePoint architecture, custom content types, metadata-driven compliance views, and automated credential-expiration tracking via Power Automate. Includes a simulated Dropbox-to-SharePoint migration using Microsoft Migration Manager.
